@@ -1,0 +1,14 @@
+
+Enter information of Book
+
+Book Price: 345
+Publisher: sara
+Author: saba
+Book Quantity: 1
+
+Enter information of Book
+
+Book Price: 345
+Publisher: sara
+Author: saba
+Book Quantity: 1
